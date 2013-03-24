@@ -132,8 +132,9 @@ sub do_auth
 
 
   else{
+    print "Failed to auth\n";
     print "$response_code\n\n";
-    print print Dumper($auth_content);
+    print Dumper($auth_content);
     exit 1;
   }
 
