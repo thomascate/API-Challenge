@@ -14,7 +14,7 @@ You will need perl JSON and LWP for basically all of these.
 -r region (DFW or ORD)  
 
 Example output,  
-[tcate@challenge 1]$ ./challenge1.pl -f 2 -n challenge -i 03318d19-b6e6-4092-9b5c-4758ee0ada60 -c 3  
+[tcate@challenge 1]$ ./challenge1.pl -f 2 -n challenge -i 03318d19-b6e6-4092-9b5c-4758ee0ada60 -c 3 -r dfw  
 Sent build request for server challenge1  
 Sent build request for server challenge2  
 Sent build request for server challenge3  
