@@ -3,7 +3,7 @@ API-Challenge
 
 Rackspace API Challenges  
 
-I'm doing these in Perl because that is the method in which rotate forward.  
+I'm doing these in Perl because that is the method in which I rotate forward.  
 You will need perl JSON and LWP for basically all of these.  
 
 1. This takes the following flags,  
