@@ -11,6 +11,7 @@ You will need perl JSON and LWP for basically all of these.
 -n name (base name, will have number appended)  
 -i image id (I like 03318d19-b6e6-4092-9b5c-4758ee0ada60 but this works with any image)  
 -c count (3 for challenge)  
+-r region (DFW or ORD)  
 
 Example output,  
 [tcate@challenge 1]$ ./challenge1.pl -f 2 -n challenge -i 03318d19-b6e6-4092-9b5c-4758ee0ada60 -c 3  
